@@ -77,5 +77,3 @@ Provide two screenshots. The first screenshot should show that the alarm field i
 <img width="504" alt="image" src="https://github.com/sandip86/Analyze-live-streaming-data-using-ThingsBoard/assets/153111110/62483245-2b95-47d0-9f56-06f9918915c5">
 
 <img width="331" alt="image" src="https://github.com/sandip86/Analyze-live-streaming-data-using-ThingsBoard/assets/153111110/458a1f00-9d05-44a2-9e70-4483aecc1275">
-
-![image](https://github.com/sandip86/Analyze-live-streaming-data-using-ThingsBoard/assets/153111110/3f2b02ce-7e48-4f74-bf4c-58ce4293f53c)
